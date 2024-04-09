@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shiva neupane 
+- 👀 I’m interested in Java and Artificial Intelligence
+- 🌱 I’m currently learning fine tuning the available LLM models.
+- 📫 shivaneupane3614@gmail.com
