@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shiva neupane 
-- 👀 I’m interested in Java and Artificial Intelligence
-- 🌱 I’m currently learning fine tuning the available LLM models.
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning to fine tune the opensource LLM models and agentic application.
 - 📫 shivaneupane3614@gmail.com
